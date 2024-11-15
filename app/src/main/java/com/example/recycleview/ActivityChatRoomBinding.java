@@ -24,7 +24,7 @@ public class ActivityChatRoomBinding {
         recyclerView = root.findViewById(R.id.recyclerView);
         sendButton = root.findViewById(R.id.sendButton);
         editMessage = root.findViewById(R.id.editMessage);
-        receiveButton = root.findViewById(R.id.receiveButton);
+        receiveButton = root.findViewById(R.id.recieveButton);
     }
 
     // Static method to inflate the binding from the layout

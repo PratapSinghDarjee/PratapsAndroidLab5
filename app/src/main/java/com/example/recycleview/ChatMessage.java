@@ -24,6 +24,7 @@ public class ChatMessage {
 
 
 
+
     // Getters for message properties
     public String getMessage() {
         return message;
